@@ -4,6 +4,7 @@ a powerful graphic calculator for plotting functions. supports various mathemati
 ## Syntax
 here are some examples of valid syntax:
 `x`
+
 `x+3`
 `7*sin(x)`
 `a=8`
