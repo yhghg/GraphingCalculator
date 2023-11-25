@@ -16,7 +16,7 @@ here are some examples of valid syntax:
 
 `a=[1,10]` (creates a slider which can then be used to change a between 1-10)
 
-`f(x)=x^4-cos(2*x)` (defines function f(x) which can then be used)
+`f(x)=x^4-cos(2*x)` (defines function f(x) which can then be used in other expressions)
 
 `g(x)=x+f(x)`
 
